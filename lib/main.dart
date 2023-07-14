@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'lang_setting.dart';
 
 void main()  async{
+  // to git
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
 
