@@ -2,6 +2,7 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 
 class LangSetting extends StatefulWidget {
+  // change ui
   const LangSetting({super.key});
 
   @override
